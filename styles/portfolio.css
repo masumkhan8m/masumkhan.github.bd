@@ -161,8 +161,23 @@ footer{
     background-color: #FFF8F3;
     padding:130px 200px ;
     margin: 100px;
+    gap: 100px;
 }
-
+.footer-colum{
+    width: 50%;
+}
+.contact input, textarea{
+    display: block;
+    margin-bottom:25px ;
+    padding: 18px 35px;
+    background-color: #FFF;
+    color: #757575;
+    border: 0;
+    width: 100%;
+}
+.sociol-links{
+    margin-right: 30px;
+}
     
 
 
